@@ -86,7 +86,7 @@ Judge me by my repositories ↓
 ## 统计数据 | GitHub Stats
 
 <p align="center">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=QuantumSyntaxDev&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=tomokuroki&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
