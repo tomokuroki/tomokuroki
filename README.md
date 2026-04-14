@@ -19,7 +19,6 @@
   <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%">
 </p>
 
-<h1 align="center">Tomokuroki 🌟</h1>
 <h3 align="center">后端 / 全栈开发工程师 | Backend & Full-Stack Developer</h3>
 
 <p align="center">
