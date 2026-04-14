@@ -52,11 +52,23 @@ Judge me by my repositories ↓
 
 ## 精选项目 | Featured Projects
 
-| 项目名称 Project                  | Issues | Open PRs | Closed PRs |
-|-----------------------------------|--------|----------|------------|
-| **Hackintosh Lenovo IdeaPad**     | ![Issues](https://img.shields.io/github/issues/QuantumSyntaxDev/Hackintosh-for-Lenovo-IdeaPad-320-17IKB-Type-80XM) | ![Open PR](https://img.shields.io/github/issues-pr/QuantumSyntaxDev/Hackintosh-for-Lenovo-IdeaPad-320-17IKB-Type-80XM) | ![Closed PR](https://img.shields.io/github/issues-pr-closed/QuantumSyntaxDev/Hackintosh-for-Lenovo-IdeaPad-320-17IKB-Type-80XM) |
-| **ChatGPT Deep Purple Theme**     | ![Issues](https://img.shields.io/github/issues/QuantumSyntaxDev/ChatGPT-Deep-Purple-Theme) | ![Open PR](https://img.shields.io/github/issues-pr/QuantumSyntaxDev/ChatGPT-Deep-Purple-Theme) | ![Closed PR](https://img.shields.io/github/issues-pr-closed/QuantumSyntaxDev/ChatGPT-Deep-Purple-Theme) |
-| **GitHub Achievements Booster**   | ![Issues](https://img.shields.io/github/issues/QuantumSyntaxDev/GitHub-Achievements-Booster) | ![Open PR](https://img.shields.io/github/issues-pr/QuantumSyntaxDev/GitHub-Achievements-Booster) | ![Closed PR](https://img.shields.io/github/issues-pr-closed/QuantumSyntaxDev/GitHub-Achievements-Booster) |
+| 项目名称 Project                  | 描述 Description                          | 主要语言 Language |
+|-----------------------------------|-------------------------------------------|-------------------|
+| **FemboyLang**                    | 现代简易编程语言，专注于开发体验          | Python            |
+| **cybepsychosis.github.io**       | 个人赛博风格静态网站                      | CSS / HTML        |
+| **tomokuroki.github.io**          | SpaceHey 改进扩展（开源）                 | HTML / CSS / JS   |
+
+<p align="center">
+  <a href="https://github.com/tomokuroki/femboylang">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomokuroki&repo=femboylang&theme=radical" alt="FemboyLang" />
+  </a>
+  <a href="https://github.com/tomokuroki/cybepsychosis.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomokuroki&repo=cybepsychosis.github.io&theme=radical" alt="cybepsychosis" />
+  </a>
+  <a href="https://github.com/tomokuroki/tomokuroki.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomokuroki&repo=tomokuroki.github.io&theme=radical" alt="tomokuroki.github.io" />
+  </a>
+</p>
 
 ---
 
