@@ -19,6 +19,7 @@
   <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%">
 </p>
  
+<h1 align="center">Tomokuroki 🌟</h1>
 <h3 align="center">后端 / 全栈开发工程师 | Backend & Full-Stack Developer</h3>
  
 <p align="center">
@@ -49,13 +50,19 @@ No fluff. No fake hype. Repos below — judge there.
 ---
  
 ## 精选项目 | Featured Projects
- 
-| 项目名称 Project | 议题 Issues | 合并请求 Open PRs | 已关闭 PRs Closed |
-| :--- | :---: | :---: | :---: |
-| **FemboyLang** | ![Issues](https://img.shields.io/github/issues/tomokuroki/femboylang) | ![Open PR](https://img.shields.io/github/issues-pr/tomokuroki/femboylang) | ![Closed PR](https://img.shields.io/github/issues-pr-closed/tomokuroki/femboylang) |
-| **cybepsychosis.github.io** | ![Issues](https://img.shields.io/github/issues/tomokuroki/cybepsychosis.github.io) | ![Open PR](https://img.shields.io/github/issues-pr/tomokuroki/cybepsychosis.github.io) | ![Closed PR](https://img.shields.io/github/issues-pr-closed/tomokuroki/cybepsychosis.github.io) |
-| **tomokuroki.github.io** | ![Issues](https://img.shields.io/github/issues/tomokuroki/tomokuroki.github.io) | ![Open PR](https://img.shields.io/github/issues-pr/tomokuroki/tomokuroki.github.io) | ![Closed PR](https://img.shields.io/github/issues-pr-closed/tomokuroki/tomokuroki.github.io) |
- 
+
+<p align="center">
+  <a href="https://github.com/tomokuroki/femboylang">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomokuroki&repo=femboylang&theme=radical" alt="FemboyLang" />
+  </a>
+  <a href="https://github.com/tomokuroki/cybepsychosis.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomokuroki&repo=cybepsychosis.github.io&theme=radical" alt="cybepsychosis.github.io" />
+  </a>
+  <a href="https://github.com/tomokuroki/tomokuroki.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomokuroki&repo=tomokuroki.github.io&theme=radical" alt="tomokuroki.github.io" />
+  </a>
+</p>
+
 ---
  
 ## 技术栈 | Tech Stack
