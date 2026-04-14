@@ -36,45 +36,38 @@
 
 ## 关于我 | About Me
 
-我是 **Tomokuroki**，一名后端及全栈开发工程师。我热爱开源生态，乐于协作，致力于构建稳定且实用的系统。  
-I’m **Tomokuroki** — backend & full-stack developer. I love the **open-source ecosystem**, collaboration, and building things that **actually work**.
+我是 **Tomokuroki**，一名来自中国的后端 & 全栈开发工程师。
 
-- 追求卓越的工程实践 | Growing as an engineer
-- 参与具有影响力的项目 | Contributing to meaningful projects
-- 向行业顶尖技术专家学习 | Learning from professionals
+我热爱开源，喜欢构建稳定、高性能且真正有用的系统。拒绝空谈，用代码说话。
 
-拒绝空谈。用代码说话，请查阅下方的仓库。  
-No fluff. No fake hype. Repos below — judge there.
+- 追求卓越的工程实践
+- 参与有影响力的开源项目
+- 持续向顶尖开发者学习
+
+**No fluff. No fake hype.**  
+Judge me by my repositories ↓
 
 ---
 
 ## 精选项目 | Featured Projects
 
-<p align="center">
-  <a href="https://github.com/tomokuroki/femboylang">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomokuroki&repo=femboylang&theme=radical" alt="FemboyLang" />
-  </a>
-  <a href="https://github.com/tomokuroki/cybepsychosis.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomokuroki&repo=cybepsychosis.github.io&theme=radical" alt="cybepsychosis" />
-  </a>
-  <a href="https://github.com/tomokuroki/tomokuroki.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomokuroki&repo=tomokuroki.github.io&theme=radical" alt="tomokuroki.github.io" />
-  </a>
-</p>
-
----
+| 项目名称 Project              | 议题 Issues | 合并请求 Open PRs | 已关闭 PRs Closed |
+|--------------------------------|-------------|-------------------|-------------------|
+| **FemboyLang**                 | ![Issues](https://img.shields.io/github/issues/tomokuroki/femboylang) | ![Open PR](https://img.shields.io/github/issues-pr/tomokuroki/femboylang) | ![Closed PR](https://img.shields.io/github/issues-pr-closed/tomokuroki/femboylang) |
+| **cybepsychosis.github.io**    | ![Issues](https://img.shields.io/github/issues/tomokuroki/cybepsychosis.github.io) | ![Open PR](https://img.shields.io/github/issues-pr/tomokuroki/cybepsychosis.github.io) | ![Closed PR](https://img.shields.io/github/issues-pr-closed/tomokuroki/cybepsychosis.github.io) |
+| **tomokuroki.github.io**       | ![Issues](https://img.shields.io/github/issues/tomokuroki/tomokuroki.github.io) | ![Open PR](https://img.shields.io/github/issues-pr/tomokuroki/tomokuroki.github.io) | ![Closed PR](https://img.shields.io/github/issues-pr-closed/tomokuroki/tomokuroki.github.io) |
 
 ## 技术栈 | Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,symfony,laravel,java,spring,python,django,ts,nodejs,express,nest,prisma,angular,postgres,mysql,mongodb,docker,linux,nginx,rabbitmq,bash,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,flutter,react,html,css,js,php,symfony,laravel,java,spring,ts,nodejs,express,nest,prisma,angular,postgres,mysql,mongodb,docker,linux,nginx,rabbitmq,bash,git&perline=10&theme=dark" />
 </p>
 
 ### 其他技能 | Other Skills
-* **后端 Backend:** FastAPI, Node.js, REST, GraphQL
-* **数据库 Databases:** PostgreSQL, MySQL, MongoDB, SQLite
-* **运维 DevOps:** Docker, CI/CD, Linux, Nginx
-* **移动/桌面端 Mobile/Desktop:** Flutter, C++ (low-level tools)
+- **Backend:** FastAPI, Node.js, REST, GraphQL
+- **Databases:** PostgreSQL, MySQL, MongoDB, SQLite
+- **DevOps:** Docker, CI/CD, Linux, Nginx
+- **Mobile/Desktop:** Flutter, C++ (低级工具)
 
 ---
 
