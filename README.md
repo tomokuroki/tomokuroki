@@ -27,7 +27,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tomokuroki&color=grey" alt="Views" />
-  <a href="https://github.com/QuantumSyntaxDev">
+  <a href="https://github.com/tomokuroki">
     <img src="https://img.shields.io/github/followers/tomokuroki?label=Followers&style=social" alt="Followers" />
   </a>
 </p>
