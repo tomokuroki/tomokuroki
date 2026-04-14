@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🌟 **Tomokuroki** — 中国开发者
 
-<!--
-**tomokuroki/tomokuroki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h2>C++ • C • Python • Flutter • React • HTML • CSS • JS</h2>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,flutter,react,html,css,js&perline=8" height="60">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub 统计 (实时更新)
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomokuroki&show_icons=true&theme=radical&hide_title=true&locale=ru)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomokuroki&layout=compact&theme=radical&hide_title=true&locale=ru)
+
+</div>
