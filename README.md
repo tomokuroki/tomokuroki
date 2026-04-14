@@ -6,13 +6,7 @@
 
 <img src="https://skillicons.dev/icons?i=cpp,c,python,flutter,react,html,css,js&perline=8" height="62">
 
-</div>
-
----
-
 ### 🔥 感兴趣的项目
-
-<div align="center">
 
 [![SpaceHeyMods](https://github-readme-stats.vercel.app/api/pin/?username=tomokuroki&repo=SpaceHeyMods&theme=radical)](https://github.com/tomokuroki/SpaceHeyMods)
 
