@@ -26,9 +26,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=QuantumSyntaxDev&color=grey" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=tomokuroki&color=grey" alt="Views" />
   <a href="https://github.com/QuantumSyntaxDev">
-    <img src="https://img.shields.io/github/followers/QuantumSyntaxDev?label=Followers&style=social" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/tomokuroki?label=Followers&style=social" alt="Followers" />
   </a>
 </p>
 
