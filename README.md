@@ -8,9 +8,14 @@
 
 ### 🔥 感兴趣的项目
 
-[![SpaceHeyMods](https://github-readme-stats.vercel.app/api/pin/?username=tomokuroki&repo=SpaceHeyMods&theme=radical)](https://github.com/tomokuroki/SpaceHeyMods)
-
-[![Tor-Apache-PHP-Mysql-Docker](https://github-readme-stats.vercel.app/api/pin/?username=tomokuroki&repo=Tor-Apache-PHP-Mysql-Docker&theme=radical)](https://github.com/tomokuroki/Tor-Apache-PHP-Mysql-Docker)
+<p align="center">
+  <a href="https://github.com/tomokuroki/SpaceHeyMods">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomokuroki&repo=SpaceHeyMods&theme=radical" />
+  </a>
+  <a href="https://github.com/tomokuroki/Tor-Apache-PHP-Mysql-Docker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomokuroki&repo=Tor-Apache-PHP-Mysql-Docker&theme=radical" />
+  </a>
+</p>
 
 </div>
 
