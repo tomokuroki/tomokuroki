@@ -8,27 +8,6 @@ Backend Engineer
 
 <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,js,react,nodejs,php,docker,linux,git&theme=light" />
 
-<br>
-
-C++ · Python · TypeScript · Node.js · React · PHP · Docker · Linux
-
-<br><br>
-
 </div>
 
----
-
-## Repositories
-
-* [SpaceHeyMods](https://github.com/tomokuroki/SpaceHeyMods)
-* [Tor-Apache-PHP-MySQL-Docker](https://github.com/tomokuroki/Tor-Apache-PHP-Mysql-Docker)
-* [FemboyLang](https://github.com/tomokuroki/FemboyLang)
-
----
-
-## GitHub Stats
-
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=tomokuroki&show_icons=true&hide_border=true&theme=graywhite" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomokuroki&layout=compact&hide_border=true&theme=graywhite" />
-</p>
+## 统计数据 | GitHub Stats <p align="center"> <img width="400em" src="https://github-readme-stats.vercel.app/api?username=tomokuroki&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /> </p> <p align="center"> <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%"> <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%"> </p> <br><br>
