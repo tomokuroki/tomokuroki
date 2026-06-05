@@ -2,11 +2,11 @@
 
 ### `> whoami`
 
-<table width="100%"><tr>
-<td valign="middle" align="left">
+<table width="100%" style="border: none; border-collapse: collapse;" border="0"><tr>
+<td valign="middle" align="left" style="border: none;">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C9A96E&vCenter=true&width=450&lines=tomokuroki;Software+Engineer;C%2B%2B+%7C+Flutter+%7C+FastAPI;Code+it.+Ship+it.+Break+it.+Fix+it." alt="Typing SVG" />
 </td>
-<td valign="middle" align="right">
+<td valign="middle" align="right" style="border: none;">
 <a href="https://github.com/tomokuroki"><img src="https://komarev.com/ghpvc/?username=tomokuroki&color=7B4F2E&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" alt="Profile Views" /></a>
 </td>
 </tr></table>
