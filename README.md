@@ -64,11 +64,17 @@ me.say_hi()
 
 <div align="center">
   <a href="https://github.com/tomokuroki">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=tomokuroki&show_icons=true&theme=gray_white&hide_border=true&bg_color=0d1117&title_color=8a8a8a&icon_color=8a8a8a&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
+    <img height="170"
+      src="https://github-readme-stats.vercel.app/api?username=tomokuroki&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8a8a8a&icon_color=8a8a8a&text_color=c9d1d9&count_private=true"
+      alt="GitHub Stats" />
   </a>
+
   &nbsp;
+
   <a href="https://github.com/tomokuroki">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomokuroki&layout=compact&theme=gray_white&hide_border=true&bg_color=0d1117&title_color=8a8a8a&text_color=c9d1d9" alt="Top Languages" />
+    <img height="170"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomokuroki&layout=compact&hide_border=true&bg_color=0d1117&title_color=8a8a8a&text_color=c9d1d9"
+      alt="Top Languages" />
   </a>
 </div>
 
