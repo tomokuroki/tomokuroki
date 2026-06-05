@@ -10,20 +10,13 @@
    ╚═╝    ╚═════╝ ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝
 ```
 
-
-<a href="https://app.daily.dev/tomokuroki"><img align="right" src="https://api.daily.dev/devcards/v2/tomokuroki.png?type=default&r=tmk" width="270" alt="tomokuroki's Dev Card" /></a>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=C0C0C0&vCenter=true&multiline=false&width=540&lines=tomokuroki;Backend+Engineer+%26+System+Dev;C%2B%2B+%7C+Flutter+%7C+FastAPI;Code+it.+Ship+it.+Break+it.+Fix+it." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=C9A96E&vCenter=true&width=540&lines=tomokuroki;Backend+Engineer+%26+System+Dev;C%2B%2B+%7C+Flutter+%7C+FastAPI;Code+it.+Ship+it.+Break+it.+Fix+it." alt="Typing SVG" />
 
 <br/><br/>
 
 <a href="https://github.com/tomokuroki">
-  <img src="https://komarev.com/ghpvc/?username=tomokuroki&color=808080&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tomokuroki&color=7B4F2E&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" alt="Profile Views" />
 </a>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/danielex1999/danielex1999/main/img/noctis.gif" width="420" alt="noctis" />
 
 </div>
 
@@ -62,38 +55,57 @@ int main() {
 
 ---
 
-### `> cat /etc/techstack`
+### `> neofetch`
 
-<img src="https://skillicons.dev/icons?i=cpp,python,fastapi,nodejs,ts,js,flutter,dart,mongodb,sqlite,docker,linux,git&theme=dark" alt="Tech Stack Icons" />
+<table>
+<tr>
+<td valign="top" width="45%">
+<img src="https://raw.githubusercontent.com/danielex1999/danielex1999/main/img/noctis.gif" width="100%" alt="noctis" />
+</td>
+<td valign="top">
+<pre>
+tomokuroki@fedora
+──────────────────────────────────────────
+OS      ▸ Fedora Linux 40  (Workstation)
+Kernel  ▸ 6.8.10-300.fc40.x86_64
+Shell   ▸ fish
+Editor  ▸ nvim  /  vscode
+──────────────────────────────────────────
+CPU     ▸ Intel Core i9-13900HX (24C) @ 5.4 GHz
+GPU     ▸ NVIDIA GeForce RTX 4070  8 GB GDDR6
+RAM     ▸ 32 GB DDR5 @ 4800 MHz  (max 64 GB)
+Disk    ▸ 1 TB NVMe M.2 SSD
+──────────────────────────────────────────
+Display ▸ 16.0"  IPS  240 Hz  400 cd/m²  matte
+Wi-Fi   ▸ 802.11ax  (Wi-Fi 6)  ·  Bluetooth 5.1
+I/O     ▸ USB-C · 2×USB 3.2 · 1×USB 2.0
+Ports   ▸ HDMI · Mini DisplayPort · RJ-45
+Weight  ▸ 3.3 kg
+</pre>
+</td>
+</tr>
+</table>
 
-<br/>
+---
 
-| Domain | Technologies |
-|--------|-------------|
-| **System / Desktop** | C++ · Low-level tools · STL |
-| **Backend** | Python (FastAPI) · Node.js · REST APIs |
+### `> cat /etc/techstack` & `> cat projects/README.md`
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,fastapi,nodejs,ts,js,flutter,dart,mongodb,docker,linux,git&theme=dark&perline=6" alt="Tech Stack" />
+
+| Domain | Tech |
+|--------|------|
+| **System** | C++ · STL · low-level |
+| **Backend** | FastAPI · Node.js · REST |
 | **Databases** | MongoDB · SQLite |
-| **Mobile** | Flutter (Android / iOS) · Dart |
-| **DevOps** | Git · Docker · CI/CD |
+| **Mobile** | Flutter · Dart |
+| **DevOps** | Docker · CI/CD · Git |
 
----
-
-### `> neofetch --stats`
-
-<p>
-  <a href="https://github.com/tomokuroki">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=tomokuroki&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=8a8a8a&text_color=c9d1d9&count_private=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/tomokuroki">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomokuroki&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&langs_count=8&hide=html,css" alt="Top Languages" />
-  </a>
-</p>
-
-<img src="https://streak-stats.demolab.com?user=tomokuroki&theme=transparent&hide_border=true&background=0d1117&stroke=444444&ring=ffffff&fire=c9d1d9&currStreakLabel=ffffff&sideLabels=8a8a8a&dates=8a8a8a" alt="GitHub Streak" />
-
----
-
-### `> cat projects/README.md`
+</td>
+<td valign="top" width="50%">
 
 <table>
   <tr>
@@ -102,27 +114,31 @@ int main() {
   </tr>
   <tr>
     <td width="50"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="40"/></td>
-    <td><strong>Flutter</strong> cross-platform mobile apps</td>
+    <td><strong>Flutter</strong> cross-platform apps</td>
   </tr>
   <tr>
     <td width="50"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="40"/></td>
-    <td><strong>C++</strong> system utilities &amp; low-level tools</td>
+    <td><strong>C++</strong> system &amp; low-level tools</td>
   </tr>
   <tr>
     <td width="50"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="40"/></td>
-    <td><strong>Docker</strong> deployments &amp; CI/CD pipelines</td>
+    <td><strong>Docker</strong> deployments &amp; CI/CD</td>
   </tr>
   <tr>
     <td width="50"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="40"/></td>
-    <td>Always experimenting with something new</td>
+    <td>Always experimenting 🔬</td>
   </tr>
+</table>
+
+</td>
+</tr>
 </table>
 
 ---
 
 ### `> uptime`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tomokuroki&bg_color=0d1117&color=8a8a8a&line=555555&point=ffffff&area=true&area_color=333333&hide_border=true&radius=6" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tomokuroki&bg_color=0d0906&color=c9a96e&line=7b4f2e&point=e8d5b7&area=true&area_color=3d2010&hide_border=true&radius=6" alt="Activity Graph" />
 
 ---
 
