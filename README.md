@@ -54,7 +54,7 @@ int main() {
 <table width="100%">
 <tr>
 <td valign="top" width="45%">
-<img src="https://raw.githubusercontent.com/danielex1999/danielex1999/main/img/noctis.gif" width="100%" alt="noctis" />
+<img src="https://raw.githubusercontent.com/danielex1999/danielex1999/main/img/noctis.gif" width="100%" alt="noctis" style="border-radius: 12px;" />
 </td>
 <td valign="top" width="55%">
 <pre>
@@ -132,7 +132,7 @@ Weight  ▸ 3.3 kg
 
 ### `> uptime`
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tomokuroki&bg_color=0d0906&color=c9a96e&line=7b4f2e&point=e8d5b7&area=true&area_color=3d2010&hide_border=true&radius=6" alt="Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tomokuroki&bg_color=0d0906&color=c9a96e&line=7b4f2e&point=e8d5b7&area=true&area_color=3d2010&hide_border=true&radius=12" alt="Activity Graph" style="border-radius: 12px;" />
 
 ---
 
