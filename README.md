@@ -1,28 +1,23 @@
 <!-- Header -->
 
-<table width="100%"><tr>
-<td valign="top" width="50%">
-
-```
-████████╗ ██████╗ ███╗   ███╗ ██████╗ ██╗  ██╗██╗   ██╗██████╗  ██████╗ ██╗  ██╗██╗
-╚══██╔══╝██╔═══██╗████╗ ████║██╔═══██╗██║ ██╔╝██║   ██║██╔══██╗██╔═══██╗██║ ██╔╝██║
-   ██║   ██║   ██║██╔████╔██║██║   ██║█████╔╝ ██║   ██║██████╔╝██║   ██║█████╔╝ ██║
-   ██║   ██║   ██║██║╚██╔╝██║██║   ██║██╔═██╗ ██║   ██║██╔══██╗██║   ██║██╔═██╗ ██║
-   ██║   ╚██████╔╝██║ ╚═╝ ██║╚██████╔╝██║  ██╗╚██████╔╝██║  ██║╚██████╔╝██║  ██╗██║
-   ╚═╝    ╚═════╝ ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C9A96E&vCenter=true&width=600&lines=tomokuroki;Software+Engineer;C%2B%2B+%7C+Flutter+%7C+FastAPI;Code+it.+Ship+it.+Break+it.+Fix+it." alt="Typing SVG" />
-
-<a href="https://github.com/tomokuroki"><img src="https://komarev.com/ghpvc/?username=tomokuroki&color=7B4F2E&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" alt="Profile Views" /></a>
-
-</td>
-
-<td valign="top" width="50%">
-
 ### `> whoami`
 
+<table width="100%"><tr>
+<td valign="middle" align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C9A96E&vCenter=true&width=450&lines=tomokuroki;Software+Engineer;C%2B%2B+%7C+Flutter+%7C+FastAPI;Code+it.+Ship+it.+Break+it.+Fix+it." alt="Typing SVG" />
+</td>
+<td valign="middle" align="right">
+<a href="https://github.com/tomokuroki"><img src="https://komarev.com/ghpvc/?username=tomokuroki&color=7B4F2E&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" alt="Profile Views" /></a>
+</td>
+</tr></table>
+
 ```cpp
+/*
+╔╦╗ ╔═╗ ╔╗╔╗ ╔═╗ ╦ ╦ ╦ ╦ ╦═╗ ╔═╗ ╦ ╦ ╦
+ ║  ║ ║ ║╚╝║ ║ ║ ╠╩╗ ║ ║ ╠╦╝ ║ ║ ╠╩╗ ║
+ ╩  ╚═╝ ╩  ╩ ╚═╝ ╩ ╩ ╚═╝ ╩╚═ ╚═╝ ╩ ╩ ╩
+*/
+
 #include <iostream>
 #include <string>
 #include <vector>
@@ -32,12 +27,14 @@ public:
     std::string name    = "tomokuroki";
     std::string role    = "Software Engineer";
     std::vector<std::string> languages = {
-        "C++", "Python", "JavaScript", "TypeScript", "Dart"
+        "C++", "Python", "JavaScript",
+        "TypeScript", "Dart"
     };
     std::string motto   = "Code it. Ship it. Break it. Fix it.";
 
     void say_hi() const {
-        std::cout << "Hey! I build backends, mobile apps, and low-level tools.\n";
+        std::cout << "Hey! I build backends, mobile\n";
+        std::cout << "apps, and low-level tools.\n";
         std::cout << "Always shipping something new 🚀\n";
     }
 };
@@ -48,10 +45,6 @@ int main() {
     return 0;
 }
 ```
-
-</td>
-</tr>
-</table>
 
 
 ---
