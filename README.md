@@ -10,15 +10,13 @@
    ╚═╝    ╚═════╝ ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=C9A96E&vCenter=true&width=540&lines=tomokuroki;Backend+Engineer+%26+System+Dev;C%2B%2B+%7C+Flutter+%7C+FastAPI;Code+it.+Ship+it.+Break+it.+Fix+it." alt="Typing SVG" />
-
-<br/><br/>
-
-<a href="https://github.com/tomokuroki">
-  <img src="https://komarev.com/ghpvc/?username=tomokuroki&color=7B4F2E&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" alt="Profile Views" />
-</a>
+<table><tr>
+<td><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C9A96E&vCenter=true&width=420&lines=tomokuroki;Software+Engineer;C%2B%2B+%7C+Flutter+%7C+FastAPI;Code+it.+Ship+it.+Break+it.+Fix+it." alt="Typing SVG" /></td>
+<td><a href="https://github.com/tomokuroki"><img src="https://komarev.com/ghpvc/?username=tomokuroki&color=7B4F2E&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" alt="Profile Views" /></a></td>
+</tr></table>
 
 </div>
+
 
 <br clear="right"/>
 
@@ -34,7 +32,7 @@
 class Tomokuroki {
 public:
     std::string name    = "tomokuroki";
-    std::string role    = "Backend Engineer & System Developer";
+    std::string role    = "Software Engineer";
     std::vector<std::string> languages = {
         "C++", "Python", "JavaScript", "TypeScript", "Dart"
     };
