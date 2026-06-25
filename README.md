@@ -92,7 +92,7 @@ Weight  ▸ 3.3 kg
 
 ### `> uptime`
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tomokuroki&bg_color=0d0906&color=c9a96e&line=7b4f2e&point=e8d5b7&area=true&area_color=3d2010&hide_border=true&radius=6" alt="Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tomokuroki&bg_color=050b05&color=00ff88&line=00cc66&point=66ff99&area=true&area_color=003d1f&hide_border=true&radius=6" alt="Activity Graph" />
 
 ---
 
