@@ -1,14 +1,14 @@
 <img align="right" width="260" src="https://atri-anime.com/assets/img/top/mainvisual/archive/ph_1.png" alt="Atri" />
 
-**你好，我是 tomokuroki。**
+**Hi, I'm tomokuroki.**
 
 [中文](./README.md) · [English](./README_EN.md)
 
-我主要开发后端服务、移动应用以及底层工具。
+I build backend services, mobile applications, and low-level tools.
 
-目前专注于 **Python / FastAPI**、**Flutter**、**C++** 和基础设施相关技术。
+Currently focused on **Python / FastAPI**, **Flutter**, **C++**, and infrastructure.
 
-### 技术栈
+### Tech stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,c,python,fastapi,nodejs,js,ts,dart&perline=8" />
@@ -18,10 +18,10 @@
   <img src="https://skillicons.dev/icons?i=github,linux,nginx,vscode&perline=8" />
 </p>
 
-### 目前
+### Currently
 
 ```text
-开发        后端服务和移动应用
-学习        系统、基础设施和 DevOps
-探索        开源开发
+Building     Backend services and mobile apps
+Learning     Systems, infrastructure and DevOps
+Exploring    Open source development
 ```
