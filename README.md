@@ -8,6 +8,11 @@
 
 目前专注于 **Python / FastAPI**、**Flutter**、**C++** 和基础设施相关技术。
 
+
+<p align="center">
+  <img width="700" src="https://media1.tenor.com/m/lIzZDuMETUwAAAAd/atri-my-dear-moments-atri.gif" alt="Atri animation" />
+</p>
+
 ### 技术栈
 
 <p>
