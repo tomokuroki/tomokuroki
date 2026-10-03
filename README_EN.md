@@ -20,10 +20,15 @@ Currently focused on **Python / FastAPI**, **Flutter**, **C++**, and infrastruct
 
 ### Currently
 
-<img align="left" width="220" src="https://media1.tenor.com/m/lIzZDuMETUwAAAAd/atri-my-dear-moments-atri.gif" alt="Atri" />
-
-**Building**　Backend services and mobile apps  
-**Learning**　Systems, infrastructure and DevOps  
-**Exploring**　Open source development  
-
-<br clear="left">
+<table>
+  <tr>
+    <td width="240" valign="top">
+      <img width="220" src="https://media1.tenor.com/m/lIzZDuMETUwAAAAd/atri-my-dear-moments-atri.gif" alt="Atri" />
+    </td>
+    <td valign="middle">
+      <b>Building</b>　Backend services and mobile apps<br><br>
+      <b>Learning</b>　Systems, infrastructure and DevOps<br><br>
+      <b>Exploring</b>　Open source development
+    </td>
+  </tr>
+</table>

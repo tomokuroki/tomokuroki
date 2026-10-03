@@ -20,10 +20,15 @@
 
 ### 目前
 
-<img align="left" width="220" src="https://media1.tenor.com/m/lIzZDuMETUwAAAAd/atri-my-dear-moments-atri.gif" alt="Atri" />
-
-**开发**　后端服务和移动应用  
-**学习**　系统、基础设施和 DevOps  
-**探索**　开源开发  
-
-<br clear="left">
+<table>
+  <tr>
+    <td width="240" valign="top">
+      <img width="220" src="https://media1.tenor.com/m/lIzZDuMETUwAAAAd/atri-my-dear-moments-atri.gif" alt="Atri" />
+    </td>
+    <td valign="middle">
+      <b>开发</b>　后端服务和移动应用<br><br>
+      <b>学习</b>　系统、基础设施和 DevOps<br><br>
+      <b>探索</b>　开源开发
+    </td>
+  </tr>
+</table>
