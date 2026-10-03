@@ -8,11 +8,6 @@ I build backend services, mobile applications, and low-level tools.
 
 Currently focused on **Python / FastAPI**, **Flutter**, **C++**, and infrastructure.
 
-
-<p align="center">
-  <img width="700" src="https://media1.tenor.com/m/lIzZDuMETUwAAAAd/atri-my-dear-moments-atri.gif" alt="Atri animation" />
-</p>
-
 ### Tech stack
 
 <p>
@@ -25,8 +20,10 @@ Currently focused on **Python / FastAPI**, **Flutter**, **C++**, and infrastruct
 
 ### Currently
 
-```text
-Building     Backend services and mobile apps
-Learning     Systems, infrastructure and DevOps
-Exploring    Open source development
-```
+<img align="left" width="220" src="https://media1.tenor.com/m/lIzZDuMETUwAAAAd/atri-my-dear-moments-atri.gif" alt="Atri" />
+
+**Building**　Backend services and mobile apps  
+**Learning**　Systems, infrastructure and DevOps  
+**Exploring**　Open source development  
+
+<br clear="left">
