@@ -1,6 +1,6 @@
 <img align="right" width="260" src="https://atri-anime.com/assets/img/top/mainvisual/archive/ph_1.png" alt="Atri" />
 
-# Hi, I'm tomokuroki.
+**Hi, I'm tomokuroki.**
 
 I build backend services, mobile applications, and low-level tools.
 
