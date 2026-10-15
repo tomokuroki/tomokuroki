@@ -9,8 +9,8 @@ I build backend services, mobile applications, and low-level tools.
 Currently focused on **Python / FastAPI**, **Flutter**, **C++**, and infrastructure.
 
 <p>
-  <img src="https://img.shields.io/badge/FOCUS-Backend%20%26%20Mobile-171321?style=flat-square&labelColor=0D1117&color=F2A6CA" alt="Focus: Backend and Mobile" />
-  <img src="https://img.shields.io/badge/STATUS-Building%20in%20Public-171321?style=flat-square&labelColor=0D1117&color=B5A0FF" alt="Building in Public" />
+  <img src="https://img.shields.io/badge/FOCUS-Backend%20%26%20Mobile-858585?style=flat-square&labelColor=30343B" alt="Focus: Backend and Mobile" />
+  <img src="https://img.shields.io/badge/STATUS-Building%20in%20Public-F59E0B?style=flat-square&labelColor=30343B" alt="Building in Public" />
 </p>
 
 ### Tech stack
