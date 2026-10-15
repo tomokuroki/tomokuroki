@@ -8,6 +8,11 @@
 
 目前专注于 **Python / FastAPI**、**Flutter**、**C++** 和基础设施相关技术。
 
+<p>
+  <img src="https://img.shields.io/badge/专注方向-后端开发与移动应用-171321?style=flat-square&labelColor=0D1117&color=F2A6CA" alt="专注方向：后端开发与移动应用" />
+  <img src="https://img.shields.io/badge/当前状态-公开开发中-171321?style=flat-square&labelColor=0D1117&color=B5A0FF" alt="当前状态：公开开发中" />
+</p>
+
 ### 技术栈
 
 <p>
