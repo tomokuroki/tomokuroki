@@ -8,10 +8,10 @@
   <img height="22" src="https://skillicons.dev/icons?i=python,fastapi,flutter,cpp,nodejs,react,mysql,docker,linux,git" />
 </p>
 
-<p>
-  <a href="https://haxskills.space/"><img src="https://img.shields.io/badge/Hax_Skills_Hub-AI_Skills-0E0E0E?style=flat-square" height="20" alt="Hax Skills Hub" /></a>
-  &nbsp;
-  <a href="https://tomokurooki.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Personal_Projects-30343B?style=flat-square&logo=vercel&logoColor=white" height="20" alt="Portfolio" /></a>
-</p>
+<p><sub>我的项目</sub></p>
 
-<sub>创建、整理和分享 AI Skills。</sub>
+<p>
+  <a href="https://haxskills.space/"><img src="https://img.shields.io/badge/Hax_Skills_Hub-AI_Skills-0E0E0E?style=flat-square" alt="Hax Skills Hub" /></a>
+  &nbsp;
+  <a href="https://tomokurooki.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Personal_Projects-30343B?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
