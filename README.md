@@ -9,12 +9,9 @@
 </p>
 
 <p>
-  <a href="https://haxskills.space/">
-    <img src="https://img.shields.io/badge/Hax_Skills_Hub-AI_Skills-0E0E0E?style=flat-square" height="20" />
-  </a>
-  <a href="https://tomokurooki.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Personal_Projects-30343B?style=flat-square&logo=vercel&logoColor=white" height="20" />
-  </a>
+  <a href="https://haxskills.space/"><img src="https://img.shields.io/badge/Hax_Skills_Hub-AI_Skills-0E0E0E?style=flat-square" height="20" alt="Hax Skills Hub" /></a>
+  &nbsp;
+  <a href="https://tomokurooki.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Personal_Projects-30343B?style=flat-square&logo=vercel&logoColor=white" height="20" alt="Portfolio" /></a>
 </p>
 
-<sub>Hax Skills Hub — 创建、整理和分享 AI Skills，并将其连接到 AI 工作流。</sub>
+<sub>创建、整理和分享 AI Skills。</sub>
