@@ -1,39 +1,16 @@
-<img align="right" width="260" src="https://atri-anime.com/assets/img/top/mainvisual/archive/ph_1.png" alt="Atri" />
+<img align="right" width="180" src="https://atri-anime.com/assets/img/top/mainvisual/archive/ph_1.png" alt="Atri" />
 
 **你好，我是 tomokuroki。**
 
 [中文](./README.md) · [English](./README_EN.md)
 
-我主要开发后端服务、移动应用以及底层工具。
-
-目前专注于 **Python / FastAPI**、**Flutter**、**C++** 和基础设施相关技术。
-
 <p>
-  <img src="https://img.shields.io/badge/专注方向-后端开发与移动应用-858585?style=flat-square&labelColor=30343B" alt="开发方向" />
-  <img src="https://img.shields.io/badge/当前状态-公开开发中-F59E0B?style=flat-square&labelColor=30343B" alt="当前状态" />
+  <img height="20" src="https://skillicons.dev/icons?i=python,fastapi,flutter,cpp,nodejs,react,docker,linux,mysql,git&perline=10" />
 </p>
 
-### 技术栈
-
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,fastapi,nodejs,js,ts,dart&perline=8" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=flutter,react,mysql,mongodb,sqlite,redis,docker,git&perline=8" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=github,linux,nginx,vscode&perline=8" />
+  <img height="16" src="https://img.shields.io/badge/Open%20Source-858585?style=flat-square" />
+  <img height="16" src="https://img.shields.io/badge/Developing-F59E0B?style=flat-square" />
 </p>
 
-### 目前
-
-<table>
-  <tr>
-    <td width="240" valign="top">
-      <img width="220" src="https://media1.tenor.com/m/lIzZDuMETUwAAAAd/atri-my-dear-moments-atri.gif" alt="Atri" />
-    </td>
-    <td valign="middle">
-      <b>开发</b>　后端服务和移动应用<br><br>
-      <b>学习</b>　系统、基础设施和 DevOps<br><br>
-      <b>探索</b>　开源开发
-    </td>
-  </tr>
-</table>
+<img src="https://media1.tenor.com/m/lIzZDuMETUwAAAAd/atri-my-dear-moments-atri.gif" width="100" alt="Atri" />
