@@ -1,16 +1,20 @@
-<img align="right" width="180" src="https://atri-anime.com/assets/img/top/mainvisual/archive/ph_1.png" alt="Atri" />
-
-**你好，我是 tomokuroki。**
-
-[中文](./README.md) · [English](./README_EN.md)
-
 <p>
-  <img height="20" src="https://skillicons.dev/icons?i=python,fastapi,flutter,cpp,nodejs,react,docker,linux,mysql,git&perline=10" />
+  <strong>你好，我是 tomokuroki。</strong>
+  <br>
+  <sub><a href="./README.md">中文</a> · <a href="./README_EN.md">English</a></sub>
 </p>
 
 <p>
-  <img height="16" src="https://img.shields.io/badge/Open%20Source-858585?style=flat-square" />
-  <img height="16" src="https://img.shields.io/badge/Developing-F59E0B?style=flat-square" />
+  <img height="22" src="https://skillicons.dev/icons?i=python,fastapi,flutter,cpp,nodejs,react,mysql,docker,linux,git" />
 </p>
 
-<img src="https://media1.tenor.com/m/lIzZDuMETUwAAAAd/atri-my-dear-moments-atri.gif" width="100" alt="Atri" />
+<p>
+  <a href="https://haxskills.space/">
+    <img src="https://img.shields.io/badge/Hax_Skills_Hub-AI_Skills-0E0E0E?style=flat-square" height="20" />
+  </a>
+  <a href="https://tomokurooki.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Personal_Projects-30343B?style=flat-square&logo=vercel&logoColor=white" height="20" />
+  </a>
+</p>
+
+<sub>Hax Skills Hub — 创建、整理和分享 AI Skills，并将其连接到 AI 工作流。</sub>
