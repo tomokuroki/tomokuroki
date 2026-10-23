@@ -1,39 +1,17 @@
-<img align="right" width="260" src="https://atri-anime.com/assets/img/top/mainvisual/archive/ph_1.png" alt="Atri" />
-
-**Hi, I'm tomokuroki.**
-
-[中文](./README.md) · [English](./README_EN.md)
-
-I build backend services, mobile applications, and low-level tools.
-
-Currently focused on **Python / FastAPI**, **Flutter**, **C++**, and infrastructure.
-
 <p>
-  <img src="https://img.shields.io/badge/FOCUS-Backend%20%26%20Mobile-858585?style=flat-square&labelColor=30343B" alt="Focus: Backend and Mobile" />
-  <img src="https://img.shields.io/badge/STATUS-Building%20in%20Public-F59E0B?style=flat-square&labelColor=30343B" alt="Building in Public" />
+  <strong>Hi, I'm tomokuroki.</strong>
+  <br>
+  <sub><a href="./README.md">中文</a> · <a href="./README_EN.md">English</a></sub>
 </p>
 
-### Tech stack
-
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,fastapi,nodejs,js,ts,dart&perline=8" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=flutter,react,mysql,mongodb,sqlite,redis,docker,git&perline=8" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=github,linux,nginx,vscode&perline=8" />
+  <img height="22" src="https://skillicons.dev/icons?i=python,fastapi,flutter,cpp,nodejs,react,mysql,docker,linux,git" />
 </p>
 
-### Currently
+<p><sub>My Projects</sub></p>
 
-<table>
-  <tr>
-    <td width="240" valign="top">
-      <img width="220" src="https://media1.tenor.com/m/lIzZDuMETUwAAAAd/atri-my-dear-moments-atri.gif" alt="Atri" />
-    </td>
-    <td valign="middle">
-      <b>Building</b>　Backend services and mobile apps<br><br>
-      <b>Learning</b>　Systems, infrastructure and DevOps<br><br>
-      <b>Exploring</b>　Open source development
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://haxskills.space/"><img src="https://img.shields.io/badge/Hax_Skills_Hub-AI_Skills-0E0E0E?style=flat-square" alt="Hax Skills Hub" /></a>
+  &nbsp;
+  <a href="https://tomokurooki.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Personal_Projects-30343B?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
