@@ -2,10 +2,12 @@
 <p align="left">
   <strong>你好，我是 tomokuroki。</strong>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/tomokuroki">Home</a> ·
-  <a href="https://github.com/tomokuroki?tab=repositories">Projects</a> ·
-  <a href="https://haxskills.space/">Hax Skills Hub</a> ·
-  <a href="https://tomokurooki.vercel.app/">Portfolio</a> ·
+  <a href="https://tomokuroki-me.vercel.app/">Home</a> ·
+  <a href="https://tomokuroki-me.vercel.app/blog">Blog</a> ·
+  <a href="https://tomokuroki-me.vercel.app/projects">Projects</a> ·
+  <a href="https://tomokuroki-me.vercel.app/talks">Talks</a> ·
+  <a href="https://tomokuroki-me.vercel.app/notes">Notes</a> ·
+  <a href="https://tomokuroki-me.vercel.app/about">About</a> ·
   <a href="https://github.com/tomokuroki">GitHub</a>
   <br>
   <sub><a href="./README.md">中文</a> · <a href="./README_EN.md">English</a></sub>
