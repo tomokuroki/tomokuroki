@@ -1,5 +1,12 @@
-<p>
+
+<p align="left">
   <strong>Hi, I'm tomokuroki.</strong>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/tomokuroki">Home</a> ·
+  <a href="https://github.com/tomokuroki?tab=repositories">Projects</a> ·
+  <a href="https://haxskills.space/">Hax Skills Hub</a> ·
+  <a href="https://tomokurooki.vercel.app/">Portfolio</a> ·
+  <a href="https://github.com/tomokuroki">GitHub</a>
   <br>
   <sub><a href="./README.md">中文</a> · <a href="./README_EN.md">English</a></sub>
 </p>
